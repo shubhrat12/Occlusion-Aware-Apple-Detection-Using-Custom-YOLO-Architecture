@@ -1,0 +1,100 @@
+{
+    "detection_rates": [
+        {
+            "resolution_text": "320x320",
+            "detected": 0.51,
+            "resolution": 102400
+        },
+        {
+            "resolution_text": "416x416",
+            "detected": 0.63,
+            "resolution": 173056
+        },
+        {
+            "resolution_text": "512x512",
+            "detected": 0.74,
+            "resolution": 262144
+        },
+        {
+            "resolution_text": "640x640",
+            "detected": 0.73,
+            "resolution": 409600
+        },
+        {
+            "resolution_text": "832x832",
+            "detected": 0.73,
+            "resolution": 692224
+        },
+        {
+            "resolution_text": "1024x1024",
+            "detected": 0.72,
+            "resolution": 1048576
+        },
+        {
+            "resolution_text": "1280x1280",
+            "detected": 0.74,
+            "resolution": 1638400
+        }
+    ],
+    "minimum_resolution_recommendations": {
+        "far": {
+            "recommended_pixels": 173056,
+            "closest_standard": "416x416"
+        },
+        "medium": {
+            "recommended_pixels": 102400,
+            "closest_standard": "320x320"
+        }
+    },
+    "metrics_by_resolution": [
+        {
+            "resolution_text": "320x320",
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "resolution": 102400
+        },
+        {
+            "resolution_text": "416x416",
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "resolution": 173056
+        },
+        {
+            "resolution_text": "512x512",
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "resolution": 262144
+        },
+        {
+            "resolution_text": "640x640",
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "resolution": 409600
+        },
+        {
+            "resolution_text": "832x832",
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "resolution": 692224
+        },
+        {
+            "resolution_text": "1024x1024",
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "resolution": 1048576
+        },
+        {
+            "resolution_text": "1280x1280",
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "resolution": 1638400
+        }
+    ]
+}
